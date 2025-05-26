@@ -48,7 +48,6 @@ Weekly
 
 Monthly
 
-Custom intervals (e.g., every 2 days)
 
 🧲 Drag-and-Drop: Easily move events to a new day
 
