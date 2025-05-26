@@ -1,7 +1,6 @@
 ﻿# Event Calendar
 
  A fully functional, client-side event calendar built using **HTML**, **CSS**, and **JavaScript**.  
-No frameworks, no build tools — just open `index.html` and go!
 
 ---
 
