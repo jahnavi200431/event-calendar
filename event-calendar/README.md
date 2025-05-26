@@ -58,5 +58,5 @@ Custom intervals (e.g., every 2 days)
 
 
 
-![image alt](https://github.com/jahnavi200431/event-calendar/blob/de57e60cfe82f90c77bd090ce3c0d2a2b35068f0/event-calendar/Screenshot%202025-05-26%20222125.png)
+![image alt](https://github.com/jahnavi200431/event-calendar/blob/adf01a737c7120baf5e859ce7db01362189e9c42/event-calendar/Screenshot%202025-05-26%20222118.png)
 
