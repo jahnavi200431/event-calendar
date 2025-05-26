@@ -13,6 +13,8 @@ event-calendar/
 └── script.js # JavaScript logic
 
 
+
+![image alt](https://github.com/jahnavi200431/event-calendar/blob/adf01a737c7120baf5e859ce7db01362189e9c42/event-calendar/Screenshot%202025-05-26%20222118.png)
 ---
 
 ## 🚀 How to Run
@@ -57,6 +59,4 @@ Custom intervals (e.g., every 2 days)
 📱 Responsive Design: Works on desktop and mobile
 
 
-
-![image alt](https://github.com/jahnavi200431/event-calendar/blob/adf01a737c7120baf5e859ce7db01362189e9c42/event-calendar/Screenshot%202025-05-26%20222118.png)
 
