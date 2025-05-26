@@ -18,6 +18,8 @@ event-calendar/
 ---
 
 ![image alt](https://github.com/jahnavi200431/event-calendar/blob/c68aee3c45b21ed11cd641e3c40fd95b7698bbbd/event-calendar/Screenshot%202025-05-26%20222125.png)
+---
+![image alt](https://github.com/jahnavi200431/event-calendar/blob/cc06aff1d0b63d9277acaa4b614942cb050b6aba/event-calendar/Screenshot%202025-05-26%20222229.png)
 ## 🚀 How to Run
 
 ```bash
