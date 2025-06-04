@@ -4,15 +4,6 @@
 
 ---
 
-## 🗂️ Project Structure
-
-event-calendar/
-├── index.html # Main HTML file
-├── style.css # CSS styles
-└── script.js # JavaScript logic
-
-
-
 ![image alt](https://github.com/jahnavi200431/event-calendar/blob/adf01a737c7120baf5e859ce7db01362189e9c42/event-calendar/Screenshot%202025-05-26%20222118.png)
 ---
 
